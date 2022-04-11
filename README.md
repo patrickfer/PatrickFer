@@ -1,4 +1,5 @@
-## Olá! Eu sou o Patrick Fernando 
+## Olá, meu nome é Patrick Fernando, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas no primeiro período, procurando minha primeira oportunidade de emprego na área. No momento estou estudando: HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e Python.
+
 
 <div align="center">
   <a href="https://github.com/PatrickFer">
