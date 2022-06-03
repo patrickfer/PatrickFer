@@ -1,5 +1,4 @@
-## Olá, meu nome é Patrick Fernando, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas no primeiro período, procurando minha primeira oportunidade de emprego na área.
-
+ <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando</i></a> 😃️</h1>
 <div align="center">
   <a href="https://github.com/PatrickFer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickFer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
