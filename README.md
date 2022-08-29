@@ -1,9 +1,9 @@
  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando</i></a> 😃️<br><br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=red" alt="Profile views" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
 <div align="center">
   <a href="https://github.com/PatrickFer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickFer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickFer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFer&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   ## Tecnologias 
