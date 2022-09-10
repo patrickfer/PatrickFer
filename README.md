@@ -1,12 +1,16 @@
  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando</i></a> 😃️<br><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
-<div align="center">
+ - 🌱 Studying Systems Analysis and Development 
+ <br> 
+ - 🧩 Here I post all my projects 
+ <br>
+<div align="center"><br>
   <a href="https://github.com/PatrickFer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickFer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFer&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  ## Tecnologias 
+  ## Technologies
  
   <div style="display: inline_block"><br>
     <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,10 +23,9 @@
           
   </div>
   
-  ## Redes Sociais 
+  ## Social Networks
   
   <div> 
-  <a href="https://instagram.com/pxtrickf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patrickferdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrickferbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
