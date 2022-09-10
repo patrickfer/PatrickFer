@@ -1,4 +1,4 @@
- <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando</i></a> 😃️<br><br>
+ <h1 align="center">Hey how's it going? I'm <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando</i></a> 😃️<br><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
  - 🌱 Studying Systems Analysis and Development 
  <br> 
