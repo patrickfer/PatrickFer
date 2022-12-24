@@ -1,8 +1,8 @@
- <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
+ <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
-  - 👨🏻‍💻 Estagiário de desenvolvimento de sistemas
+  - 👨🏻‍💻 Csharp developer
  <br> 
- - 🧩 Aqui compartilho os meus projetos. 
+ - 🧩 Here I share my projects.
  <br>
 <div align="center"><br>
   <a href="https://github.com/PatrickFer">
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFer&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  ## Tecnologias
+  ## Technologies
  
   <div style="display: inline_block"><br>
     <img align="center" alt="Patrick-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@
           
   </div>
   
-  ## Redes Sociais
+  ## Social media
   
   <div> 
   <a href = "mailto:patrickferdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
