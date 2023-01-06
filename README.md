@@ -2,7 +2,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
   - 👨🏻‍💻 Csharp developer
  <br> 
- - 🧩 Here I share my projects.
+ - 🧩 Here I share my projects
+ <br>
  <br>
 <div>
   <a href="https://github.com/patrickfer">
