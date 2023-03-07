@@ -1,8 +1,8 @@
- <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
+ <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
-  - 👨🏻‍💻 Csharp developer
+  - 👨🏻‍💻 Estagiário de desenvolvimento de sistemas
  <br> 
- - 🧩 Here I share my projects
+ - 🧩 Compartilho nesta rede meus projetos e atividades
  <br>
  <br>
 <div>
@@ -17,7 +17,7 @@
     <img align="center" alt="Patrick-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Patrick-dotnet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
     <img align="center" alt="Patrick-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="Patrick-SQL Server" height="40" width="40" src="https://s4.aconvert.com/convert/p3r68-cdx67/ann6l-n8e5l.svg"/>
+    <img align="center" alt="Patrick-SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     <img align="center" alt="Patrick-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
     <img align="center" alt="Patrick-Jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
    <img align="center" alt="Patrick-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
