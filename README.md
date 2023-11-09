@@ -1,19 +1,21 @@
  <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
  </h1>
-
  
  <p> 📚 Cursando Análise e Desenvolvimento de Sistemas </p>
- <p> 👨🏻‍💻 Desenvolvedor .NET </p>
+ <p> 👨🏻‍💻 Desenvolvedor Back-End</p>
 
 <div align="center">
- 
- ![6vIk](https://github.com/patrickfer/PatrickFer/assets/98609056/eb1535ee-2571-4620-ada5-5fe59ab21b6d)
- 
   <a href="https://github.com/patrickfer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickfer&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfer&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+<div align="center">
+
+ ![6vIk](https://github.com/patrickfer/PatrickFer/assets/98609056/eb1535ee-2571-4620-ada5-5fe59ab21b6d)
+ 
+</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
