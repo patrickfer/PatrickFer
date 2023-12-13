@@ -16,7 +16,7 @@
 ## 💻 **Tecnologias**
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,jquery,cs,dotnet,mysql,azure,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript,scss,bootstrap,jquery,cs,dotnet,mysql,azure,git" />
   </a>
 </div>
 
