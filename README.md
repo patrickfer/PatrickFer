@@ -16,15 +16,15 @@
 ## 💻 **Tecnologias**
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript,scss,bootstrap,jquery,cs,dotnet,mysql,azure,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,jquery,cs,dotnet,mysql,azure,git" />
   </a>
 </div>
 
 ## ⭐ **Estatísticas do Github**
 <div align="center">
   <a href="https://github.com/patrickfer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfer&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickfer&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfer&layout=compact&langs_count=7&theme=transparent"/>
 </div>
  
 
