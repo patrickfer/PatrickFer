@@ -1,5 +1,4 @@
  <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfer&color=blue" alt="Profile views" /></p>
  </h1>
  
 <div align="center">
