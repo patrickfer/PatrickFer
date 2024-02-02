@@ -8,8 +8,8 @@
 </div>
 
 <div>
-  <a href = "mailto:patrickferdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/patrickferbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:patrickferdev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.linkedin.com/in/patrickferbrito" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
 </div>
 
 ## 💻 **Tecnologias**
