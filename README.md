@@ -1,5 +1,5 @@
- <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br>
- </h1>
+ ![](https://komarev.com/ghpvc/?username=patrickfer&color=orange)
+ <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br></h1>
  
 <div align="center">
 
