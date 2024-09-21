@@ -1,32 +1,16 @@
- ![](https://komarev.com/ghpvc/?username=patrickfer&color=orange)
- <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/patrickferbrito/"><i>Patrick Fernando 👨🏻‍💻</i></a><br><br></h1>
- 
-<div align="center">
+<h1>Hi There! 👋</h1>
 
- ![6vIk](https://github.com/patrickfer/PatrickFer/assets/98609056/eb1535ee-2571-4620-ada5-5fe59ab21b6d)
- 
-</div>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e2647?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickferbrito/)](https://www.linkedin.com/in/patrickferbrito)
+[![Gmail Badge](https://img.shields.io/badge/-patrickferdev@gmail.com-0e2647?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickferdev@gmail.com)](mailto:patrickferdev@gmail.com)
 
-<div>
-  <a href = "mailto:patrickferdev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://www.linkedin.com/in/patrickferbrito" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
-</div>
+## My name is Patrick Fernando
+(C# | .NET | Azure | React JS | Angular | Typescript | Javascript | HTML | CSS) 🚀
+- 👩‍💻 Full Stack Engineer
+- 🎓Graduated in Systems Analysis and Development
+- 🌐 Passionate about tech
+- 💡 I'm always eager to learn new things and grow professionally
 
-## 💻 **Tecnologias**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,angular,cs,dotnet,postgresql,mysql,azure,git" />
-  </a>
-</div>
-
-## ⭐ **Estatísticas do Github**
-<div align="center">
-  <a href="https://github.com/patrickfer">
+<div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickfer&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfer&layout=compact&langs_count=7&theme=blue_navy"/>
 </div>
- 
-
-
-
-  
