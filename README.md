@@ -6,7 +6,7 @@
 > "Obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it." — Michael Jordan
 
 ## My name is Patrick Fernando
-(C# | .NET | Azure | React JS | Angular | Typescript | Javascript | HTML | CSS) 🚀
+(C# | .NET | Azure | Angular | Typescript | Javascript | HTML | CSS) 🚀
 - 👩‍💻 Full Stack Engineer
 - 🎓Graduated in Systems Analysis and Development
 - 🌐 Passionate about tech
